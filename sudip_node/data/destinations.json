@@ -1,0 +1,110 @@
+[
+    {
+        "destination_name": "Kathmandu",
+        "country": "Nepal",
+        "description": "Kathmandu, the capital city of Nepal, is a vibrant blend of ancient traditions and modern developments. It's renowned for its rich cultural heritage, bustling streets, and stunning architecture. Visitors can explore UNESCO World Heritage Sites such as Durbar Square and Swayambhunath Temple, trek to the nearby Himalayas, and experience the warmth and hospitality of the Nepalese people.",
+        "attractions": [
+            "Durbar Square",
+            "Swayambhunath Temple",
+            "Boudhanath Stupa"
+        ],
+        "activities": [
+            "Trekking",
+            "Cultural Tours",
+            "Shopping in Thamel"
+        ],
+        "image": "https://cdn.kimkim.com/files/a/content_articles/featured_photos/656bb11870d1786be69ae178e45d0723244384c6/big-3985131bf28128fdc4c2ffcd12779cb0.jpg",
+        "pet_friendly": true,
+        "location": "Kathmandu, Bagmati Province, Nepal"
+    },
+    {
+        "destination_name": "Santorini",
+        "country": "Greece",
+        "description": "Santorini is a picturesque island in the Aegean Sea, famous for its stunning sunsets, white-washed buildings, and crystal-clear waters. It boasts breathtaking views of the caldera and offers a romantic ambiance for couples and adventurers alike.",
+        "attractions": [
+            "Oia Sunset",
+            "Red Beach",
+            "Akrotiri Archaeological Site"
+        ],
+        "activities": [
+            "Wine Tasting Tours",
+            "Boat Cruises",
+            "Hiking"
+        ],
+        "image": "https://a.cdn-hotels.com/gdcs/production18/d1838/041ae6b1-0a88-4c22-a648-53a22dd4a006.jpg",
+        "pet_friendly": false,
+        "location": "Santorini, Thira, South Aegean, Greece"
+    },
+    {
+        "destination_name": "Kyoto",
+        "country": "Japan",
+        "description": "Kyoto, once the capital of Japan, is famous for its classical Buddhist temples, as well as gardens, imperial palaces, Shinto shrines, and traditional wooden houses. It's a city where ancient traditions blend seamlessly with modern life.",
+        "attractions": [
+            "Kinkaku-ji",
+            "Fushimi Inari-taisha",
+            "Arashiyama Bamboo Grove"
+        ],
+        "activities": [
+            "Tea Ceremony",
+            "Kimono Rental",
+            "Cycling Tours"
+        ],
+        "image": "https://boutiquejapan.com/wp-content/uploads/2019/07/yasaka-pagoda-higashiyama-kyoto-japan.jpg",
+        "pet_friendly": true,
+        "location": "Kyoto, Kyoto Prefecture, Kansai, Japan"
+    },
+    {
+        "destination_name": "Machu Picchu",
+        "country": "Peru",
+        "description": "Machu Picchu, a UNESCO World Heritage Site, is an ancient Incan citadel set high in the Andes Mountains in Peru. It's renowned for its well-preserved ruins, breathtaking panoramic views, and mystical atmosphere.",
+        "attractions": [
+            "The Citadel",
+            "Huayna Picchu",
+            "Sun Gate"
+        ],
+        "activities": [
+            "Hiking the Inca Trail",
+            "Photography Tours",
+            "Stargazing"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/1200px-Machu_Picchu%2C_Peru.jpg",
+        "pet_friendly": false,
+        "location": "Machu Picchu, Urubamba Province, Cusco, Peru"
+    },
+    {
+        "destination_name": "Reykjavik",
+        "country": "Iceland",
+        "description": "Reykjavik, the capital of Iceland, is a charming city with a vibrant arts and culture scene, geothermal pools, and stunning landscapes. Visitors can explore the city's colorful buildings, enjoy live music, and embark on adventures into Iceland's wilderness.",
+        "attractions": [
+            "Hallgrímskirkja",
+            "Blue Lagoon",
+            "Golden Circle Tour"
+        ],
+        "activities": [
+            "Northern Lights Tours",
+            "Whale Watching",
+            "Glacier Hiking"
+        ],
+        "image": "https://content.icelandtravel.is/wp-content/uploads/2019/03/Reykjavik.jpg",
+        "pet_friendly": true,
+        "location": "Reykjavik, Capital Region, Iceland"
+    },
+    {
+        "destination_name": "Maui",
+        "country": "United States",
+        "description": "Maui, one of the Hawaiian Islands, is known for its stunning beaches, lush landscapes, and diverse ecosystems. Visitors can enjoy snorkeling in crystal-clear waters, hiking through bamboo forests, and watching mesmerizing sunsets.",
+        "attractions": [
+            "Haleakalā National Park",
+            "Road to Hana",
+            "Molokini Crater"
+        ],
+        "activities": [
+            "Surfing",
+            "Whale Watching",
+            "Helicopter Tours"
+        ],
+        "image": "https://a.cdn-hotels.com/gdcs/production81/d1269/0cffe15a-7fdf-4e75-9415-92eaf78e2f73.jpg",
+        "pet_friendly": true,
+        "location": "Maui, Hawaii, United States"
+    }
+]
